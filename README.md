@@ -6,6 +6,8 @@ The Tamagotchi App
 **1. Introduction**
 The recreated Tamagotchi app is a digital pet simulation game designed for mobile devices, inspired by the classic handheld virtual pet toy from the 1990s. This report highlights the key features, functionality, design elements, and user experience of the recreated Tamagotchi app.
 
+![happy](https://github.com/ST10441450/Tamagotchi-App/assets/160849581/5e73990e-f138-4f8f-8767-23211e69c325)
+
 **2. Features**
 
 - **Pet Care**: Users can feed, clean, and play with their virtual pet to ensure its well-being and happiness.
@@ -46,3 +48,6 @@ The recreated Tamagotchi app is a digital pet simulation game designed for mobil
 The recreated Tamagotchi app successfully captures the essence of the original virtual pet experience while incorporating modern features and design elements tailored for mobile devices. It offers users of all ages a delightful and nostalgic journey into pet simulation gaming, fostering engagement, creativity, and responsibility through interactive gameplay.
 
 This report outlines the key aspects and strengths of the recreated Tamagotchi app, showcasing its impact on user engagement and overall enjoyment. Further enhancements and updates can be considered to enrich the app's features and appeal to a broader audience of virtual pet enthusiasts.
+
+![Start](https://github.com/ST10441450/Tamagotchi-App/assets/160849581/1eb122c0-2143-4149-9990-1333ab16e6d7)
+
